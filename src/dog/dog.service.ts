@@ -9,5 +9,7 @@ public getHello (): string {
 public introduce (): string {
   return "My name is REX"
 }
-
+public modifyDetail (): string {
+  return "you can see succesfully modified Person "
+}
 }
